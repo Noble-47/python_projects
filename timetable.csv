@@ -1,8 +1,8 @@
-day,9-12,12-2
-Monday,Python[medium],shell scripting
-Tuesday,DC,python
-Wednesday,shell scripting, DC
-Thursday,python projects, DC
-Friday,Postgres, SQL[hackerank]
-Saturday,Linear algebra,Django project
-Sunday,stats,OBM/medium
+day,9-12,12-2,8-10
+Monday,Python,DC,web scrapping
+Tuesday,DC,python,web scrapping
+Wednesday,shell scripting, DC,Python medium
+Thursday,SQL[hackerank], Python,Postgres
+Friday,vim/vi,python project,python project
+Saturday,,Linear algebra,Django project
+Sunday,,stats,OBM/medium

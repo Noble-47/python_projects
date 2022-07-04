@@ -1,0 +1,20 @@
+## timetable [options : -f/--file [filename], --pretty : prints out timetable in a colorful way]
+- reads and prints out the contents of timetable.csv
+- if a timetable.csv file doesn't exist, it should ouput an message asking for a filename as string which has the timetavle contents with the right format
+- Or inform the user that no timetable has been created in the directory, prints out the command to create a new timetable and then exist [preferred solution]
+
+## timetable -d [day:str] | timetable --day [day:str]
+- retrive timetable contents for that day
+
+## timetable set 
+- sets a new timetable   
+
+## timetable reset [options : -d/--day [list of days], -f/--file [filename]]
+- reset timetable contents
+- if a filename is specified, it's contents are overwritten
+- if a day is specified, only the contents of the day are overwritten or set if it didn't exits
+
+#Advanced
+timetable --promptme 
+- displays a flash message on the desktop screen for the beginning of a new session
+
